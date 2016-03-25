@@ -1,1 +1,10 @@
-Main objective of this tutorial is to help you to get information about the WiFi connections.
+INTRODUCTION
+------------
+Main objective of app is to transfer text, image or voice over Wi-Fi by detecting nearby wifi connections and connecting with them.
+
+REQUIREMENTS
+------------
+Java 1.6 and later.
+
+
+
