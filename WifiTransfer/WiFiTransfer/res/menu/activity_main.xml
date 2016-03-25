@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_create"
+        android:title="@string/str_create_network"
+        android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/menu_join"
+        android:title="@string/str_join_network"
+        android:showAsAction="ifRoom|withText" />
+</menu>
